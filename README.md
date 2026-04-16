@@ -9,3 +9,7 @@ Cluster 2:
 - Customers with higher spending behavior
 
 The Elbow Method was used to determine the optimal number of clusters.
+Project description
+Methods used
+Results
+Insights
